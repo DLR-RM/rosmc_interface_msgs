@@ -1,0 +1,2 @@
+string action_id
+rosmc_interface_msgs/ActionContent action_content

@@ -1,0 +1,9 @@
+uint8 RUN = 0
+uint8 PAUSE = 1
+uint8 STOP = 2
+uint8 RESET = 3
+uint8 trigger
+string agent_name
+---
+bool success
+string msg

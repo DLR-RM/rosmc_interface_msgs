@@ -1,0 +1,3 @@
+rosmc_interface_msgs/AgentActions[] agents_actions
+rosmc_interface_msgs/SyncIDs[] sync_ids_list
+---

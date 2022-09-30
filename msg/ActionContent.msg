@@ -1,0 +1,7 @@
+string action_name
+string action_label
+bool battery_flag
+bool wlan_flag
+bool manual_flag
+rosmc_interface_msgs/ActionStatus status
+string parameters_yaml

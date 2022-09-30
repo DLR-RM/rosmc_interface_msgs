@@ -1,0 +1,9 @@
+string process_name
+string namespace
+
+uint8 FULL = 0
+uint8 SYNC = 1
+uint8 mission_receive_mode
+---
+bool success
+string mission_server_namespace
